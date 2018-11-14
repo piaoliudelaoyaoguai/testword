@@ -5,4 +5,5 @@
 *.js linguist-language=Java 
 *.xml linguist-language=Java
 *.css linguist-language=Java 
-
+*.doc linguist-language=Java 
+*.docx linguist-language=Java 
