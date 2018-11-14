@@ -1,1 +1,8 @@
+//项目内有什么文件 就使用 *.xx(xx代表文件后缀)
+*.md linguist-language=java 
+*.yml linguist-language=Java 
+*.html linguist-language=Java 
+*.js linguist-language=Java 
+*.xml linguist-language=Java
+*.css linguist-language=Java 
 
